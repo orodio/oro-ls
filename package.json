@@ -1,0 +1,26 @@
+{
+  "name": "oro-ls",
+  "version": "1.0.0",
+  "description": "promise wrapper around localStorage. matches oro-xhr returns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/orodio/oro-ls"
+  },
+  "keywords": [
+    "localstorage",
+    "promise"
+  ],
+  "author": "orodio <james@bjorkman.ca>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orodio/oro-ls/issues"
+  },
+  "homepage": "https://github.com/orodio/oro-ls",
+  "dependencies": {
+    "es6-promise": "^2.0.1"
+  }
+}
